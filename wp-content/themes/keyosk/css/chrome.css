@@ -1,0 +1,157 @@
+
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+
+	body {
+		font: 300 21px/25px 'Open Sans', sans-serif;
+	}
+	
+	h1 span {
+		font: 300 21px/25px 'Open Sans', sans-serif;
+	}
+	
+	h2 {
+		font: 300 32px 'Open Sans', sans-serif;
+	}
+	
+	h2 span {
+		font: 300 21px/25px 'Open Sans', sans-serif;
+	}
+	
+	h6 {
+		font: 300 17px 'Open Sans', sans-serif;
+	}
+	
+	nav ul li a {
+		font: 300 14px 'Open Sans', sans-serif;
+	}
+	
+	.bundle-product-desc span {
+		font: 300 14px 'Open Sans', sans-serif;
+	}
+	
+	.select-desc span {
+		font: 300 14px 'Open Sans', sans-serif;
+	}
+	
+	.accordion-inner {
+		font: 300 17px/21px 'Open Sans', sans-serif;
+	}
+	
+	.button.button-active, input[type=submit] {
+		font: 300 14px 'Open Sans', sans-serif;
+	}
+	
+	.button..button-inactive {
+		font: 300 14px 'Open Sans', sans-serif;
+	}
+	
+	.keyosk-api {
+		font: 300 16px/21px 'Open Sans', sans-serif;
+	}
+	
+	footer {
+		font: 300 14px 'Open Sans', sans-serif;
+	}
+	
+	h2.super-heading {
+		font: 300 61px 'Open Sans', sans-serif;
+	}
+	
+	.app {
+		font: 300 17px/24px 'Open Sans', sans-serif;
+	}
+	
+	#features {
+		font: 300 17px/24px 'Open Sans', sans-serif;
+	}
+	
+	strong { font-family: 'Open Sans', sans-serif; font-weight: 400; }
+	
+	h1 {
+		font: 400 34px/38px 'Open Sans', sans-serif;
+	}
+	
+	h3 {
+		font: 400 21px 'Open Sans', sans-serif;
+	}
+	
+	h4 {
+		font: 400 21px 'Open Sans', sans-serif;
+	}
+	
+	h5 {
+		font: 400 24px 'Open Sans', sans-serif;
+	}
+	
+	a.super-big-button {
+		font: 400 19px 'Open Sans', sans-serif;
+	}
+	
+	.bundle-space-text {
+		font: 400 19px 'Open Sans', sans-serif;
+	}
+	
+	.bundle-product-desc {
+		font: 400 14px 'Open Sans', sans-serif;
+	}
+	
+	.select-desc {
+		font: 400 14px 'Open Sans', sans-serif;
+	}
+	
+	.post-info ul {
+		font: 400 14px/22px 'Open Sans', sans-serif;
+	}
+	
+	aside ul {
+		font: 400 14px/22px 'Open Sans', sans-serif;
+	}
+	
+	label {
+		font: 400 14px/22px 'Open Sans', sans-serif;
+	}
+	
+	input {
+		font: 400 16px 'Open Sans', sans-serif;
+	}
+	
+	textarea {
+		font: 400 16px 'Open Sans', sans-serif;
+	}
+	
+	.checkbox {
+		font: 400 14px 'Open Sans', sans-serif;
+	}
+	
+	select {
+		font: 400 16px 'Open Sans', sans-serif;
+	}
+	
+	ul.bxslider-slideshow li {
+		font: 400 17px 'Open Sans', sans-serif;
+	}
+	
+	.backend-tooltip-1 {
+		font: 400 17px/21px 'Open Sans', sans-serif;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
