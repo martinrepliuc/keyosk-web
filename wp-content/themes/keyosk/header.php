@@ -25,19 +25,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <link rel="shortcut icon" href="http://www.keyosk.io/wp-content/themes/keyosk/images/favicon.ico">
-    <link rel="apple-touch-icon" href="http://www.keyosk.io/wp-content/themes/keyosk/images/touch-icon-iphone.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="http://www.keyosk.io/wp-content/themes/keyosk/images/touch-icon-ipad.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="http://www.keyosk.io/wp-content/themes/keyosk/images/touch-icon-iphone-retina.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="http://www.keyosk.io/wp-content/themes/keyosk/images/touch-icon-ipad-retina.png">
+    <link rel="shortcut icon" href="/wp-content/themes/keyosk/images/favicon.ico">
+    <link rel="apple-touch-icon" href="/wp-content/themes/keyosk/images/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/wp-content/themes/keyosk/images/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/wp-content/themes/keyosk/images/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/wp-content/themes/keyosk/images/touch-icon-ipad-retina.png">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
     
-    <link rel="stylesheet" href="http://www.keyosk.io/wp-content/themes/keyosk/css/bootstrap.css">
-    <link rel="stylesheet" href="http://www.keyosk.io/wp-content/themes/keyosk/style.css">
-    <link rel="stylesheet" href="http://www.keyosk.io/wp-content/themes/keyosk/css/bootstrap-responsive.css">
-    <link rel="stylesheet" href="http://www.keyosk.io/wp-content/themes/keyosk/css/animate.css">
+    <link rel="stylesheet" href="/wp-content/themes/keyosk/css/bootstrap.css">
+    <link rel="stylesheet" href="/wp-content/themes/keyosk/style.css">
+    <link rel="stylesheet" href="/wp-content/themes/keyosk/css/bootstrap-responsive.css">
+    <link rel="stylesheet" href="/wp-content/themes/keyosk/css/animate.css">
     <?php if (strpos($_SERVER['HTTP_USER_AGENT'], 'Windows') && strpos($_SERVER['HTTP_USER_AGENT'], 'Chrome')) {
-    		echo '<link rel="stylesheet" href="http://www.keyosk.io/wp-content/themes/keyosk/css/chrome.css" type="text/css" media="screen" />';
+    		echo '<link rel="stylesheet" href="/wp-content/themes/keyosk/css/chrome.css" type="text/css" media="screen" />';
 		  } 
 	?>
     
@@ -45,7 +45,7 @@
     
     <?php wp_head(); ?>
     
-    <script type="text/javascript" src="http://www.keyosk.io/wp-content/themes/keyosk/js/wow.js"></script>
+    <script type="text/javascript" src="/wp-content/themes/keyosk/js/wow.js"></script>
     <script>
   		wow = new WOW(
    			{
@@ -92,7 +92,7 @@
                         	<a href="<?php echo home_url( '/' ); ?>"><?php bloginfo( 'name' ); ?> - <?php bloginfo( 'description' ); ?></a>
                       	</h1>
                   	</div>
-                    <!--<a href="#" id="navanchor"><img src="http://www.keyosk.io/wp-content/themes/keyosk/images/nav-anchor.jpg" width="30" height="40" alt="Menue" /></a>-->
+                    <!--<a href="#" id="navanchor"><img src="/wp-content/themes/keyosk/images/nav-anchor.jpg" width="30" height="40" alt="Menue" /></a>-->
                     <nav class="span8">
                     	<?php wp_nav_menu( array( 'theme_location' => '', 'menu' => 'main-navi', 'container' => '', 'menu_class' => '', 'items_wrap' => '<ul>%3$s</ul>' ) ); ?>
                     </nav>
